@@ -1,7 +1,10 @@
-target
+target/
 ~*
 *~
 .DS_Store
-.bpmn
-.idea
+.idea/
 *.iml
+
+.settings/
+.projcet
+.classpath
